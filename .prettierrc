@@ -1,0 +1,11 @@
+{
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "prettier/prettier": [
+    "error",
+{
+  "endOfLien": "auto"
+}
+]
+}
+
